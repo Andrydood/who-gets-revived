@@ -1,0 +1,1 @@
+{"name":"who-gets-revived","version":"1.0.0","main":"index.js","license":"MIT","scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"next":"^9.3.4","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"who-gets-revived@1.0.0"}
